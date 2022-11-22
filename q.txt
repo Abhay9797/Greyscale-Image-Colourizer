@@ -1,3 +1,0 @@
-image = Image.open('Dataset/Train/'+imagename) #reads the image
-        new_image = image.resize((256, 256)) #resizes the image to 256x256
-        new_image.save('Dataset/Train/'+imagename)
