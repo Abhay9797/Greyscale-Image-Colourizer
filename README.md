@@ -1,4 +1,3 @@
-# MI-Project
-This project is for grayscale image colrization. It gives plausible color to any grayscale image passed through the model.
+# Greyscale-Image-Colorizer
+This project is for grayscale image colorization. It gives plausible color to any grayscale image passed through the model.
 
-We use a feed-forward CNN to achieve this
